@@ -1,0 +1,11 @@
+.t1{
+    margin: 10px;
+    border-spacing: 10px;
+}
+td{
+    
+    padding: 3px;
+    border-radius: 5px;
+    border: 1px solid black;
+    box-shadow:3px 3px 2px lightslategray;
+}

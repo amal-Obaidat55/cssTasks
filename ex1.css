@@ -1,0 +1,9 @@
+#first{
+    color:orange;
+    
+}
+#third{
+    background-image: url("images/pp.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
