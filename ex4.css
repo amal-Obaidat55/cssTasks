@@ -8,23 +8,23 @@ div{
     background-color: aliceblue;
 }
 
-#d1,#d3{
+#container1,#container3{
     border:  2px solid black;
     background-color: aliceblue;
 }
 
-#d2{
+#container2{
     border:2px dashed black;
 }
 
-#d3{
+#container3{
     color:darkmagenta
 }
 
-#p2{
+#second-paragraph{
     border:2px dashed red;
 
 }
-.iq{
+.OMarker{
     background-color: burlywood;
 }
