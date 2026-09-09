@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin:10px;
+}
+.container{
+    height: 97dvh;
+    min-height: 500px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr );
+    font-family:  Arial, sans-serif;
+    align-items: stretch;
+    gap: 10px;
+    
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    border: 1px black solid;
+    border-radius: 5px;
+}
+.contentBoxes{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+img{
+    width: 100%;
+    height: 200px;
+}
+h1,.text,.footer{
+    padding: 10px;
+}
+.text{
+    flex: 1;
+    font-size: larger;
+    font-weight: lighter;
+}
+.footer{
+    color: white;
+    background-color: rgb(44, 47, 48);
+    margin-top: auto;
+}

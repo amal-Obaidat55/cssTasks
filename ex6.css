@@ -1,0 +1,44 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    border: 2px dotted black;
+    width: fit-content;
+    gap: 2px;
+    justify-content: space-between;
+    
+}
+
+.red {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    
+}
+
+.green {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+
+.relative {
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+
+.PRelative{
+    position: relative;
+}
+
+.absolute{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+p{
+    font-family:  Arial, sans-serif;
+    margin-left: 5px;
+    font-size: 20px;
+}

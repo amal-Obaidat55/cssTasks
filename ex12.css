@@ -1,0 +1,10 @@
+.fixedImg{
+    margin: 20px;
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+img{
+    height:400px;
+    width: 100px;
+}
