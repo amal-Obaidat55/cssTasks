@@ -3,7 +3,7 @@
     
 }
 #third-paragraph{
-    background-image: url("images/pp.jpg");
+    background-image: url("../images/pp.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
